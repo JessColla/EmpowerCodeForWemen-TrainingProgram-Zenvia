@@ -1,0 +1,97 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 70vh;
+  width: 70vh;
+  background-color: #355cd9;
+  border-radius: 2vh;
+  border: solid #203986;
+  box-shadow: 0 0 2em #203986;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.label {
+  color: #ffffff;
+}
+
+.selectMoeda {
+  width: 55vh;
+  border-radius: 1vh;
+  border: none;
+  height: 6vh;
+}
+
+.selectValue {
+  border-radius: 1vh;
+  border: none;
+  width: 53vh;
+  height: 5vh;
+}
+
+.page-subtitle {
+  color: #000000;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: linear-gradient(
+    90deg,
+    rgba(32, 57, 134, 1) 4%,
+    rgba(11, 86, 223, 1) 47%,
+    rgba(47, 223, 189, 1) 76%
+  );
+  padding: 5px;
+  border-radius: 5px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+  text-align: left;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  box-shadow: 0 0 1em #203986;
+  border: none;
+  background: #203986;
+  color: #ffffff;
+  height: 30px;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 20px;
+}
+
