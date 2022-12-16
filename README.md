@@ -9,4 +9,4 @@ These projects were developed in a training project made available by the compan
 * [Node.js](https://nodejs.org/en/) - main language used
 
 ---
-⌨️ com ❤️ por [Jessica Colla](https://github.com/JessColla) 😊
+⌨️ with ❤️ by [Jessica Colla](https://github.com/JessColla) 😊
